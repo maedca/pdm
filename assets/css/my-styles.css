@@ -1,0 +1,84 @@
+.margen{
+    padding-bottom: 80px;
+}
+.margen-header{
+    padding-bottom: 80px;
+}
+
+header{
+    text-align: center;
+    color: #fff;
+    background: #18bc9c;
+}
+#about{
+    text-align: center;
+    color: #fff;
+    background: #18bc9c;
+}
+.margen-about{
+    padding-top: 60px;
+    padding-bottom: 80px;
+}
+header img{
+
+    margin: 0 auto;
+    margin-top: 40px;
+}
+#portfolio{
+    background: #F5F5F5;
+}
+.porfolio-img{
+    margin: 0 0 30px;
+    position: relative;
+    min-height: 1px;
+    padding-left: 15px;
+    padding-right: 15px;
+
+}
+
+#page-top {
+    background: url(../images/cover.jpg);
+    background-color: #222;
+    background-attachment:fixed;
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    padding: 0;
+
+}
+
+
+
+.marco{
+    border:  2px groove #0000FF;
+    border-radius: 2%;
+
+}
+
+
+.h1-big{
+    font-size: 3em;
+}
+
+@media(min-width: 992px){
+    .mastop{
+        margin-top: 150px;
+    }
+
+
+}
+
+
+.navbar-default{
+    background:rgb(2, 20, 16) none repeat scroll 0% 0%;
+    height: 80px;
+
+}
+
+.icon-font{
+    font-size: 3em;
+}
+

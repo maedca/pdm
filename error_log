@@ -1,0 +1,4 @@
+[20-Sep-2015 04:23:24 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/tercesdesignscom/public_html/application/views/templates/front_end/header.php on line 7
+[20-Sep-2015 04:26:37 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/tercesdesignscom/public_html/application/views/templates/front_end/header.php on line 7
+[20-Sep-2015 04:28:40 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/tercesdesignscom/public_html/application/views/templates/front_end/header.php on line 7
+[05-Oct-2015 01:51:26 UTC] PHP Fatal error:  Call to a member function set_userdata() on a non-object in /home/tercesdesignscom/public_html/application/controllers/Home.php on line 64
